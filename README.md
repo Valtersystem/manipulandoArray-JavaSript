@@ -1,6 +1,6 @@
 # manipulandoArray-JavaSript
 
-##Trabalhnado com: <br>
+##Trabalhando com: <br>
 ##Filter <br>
 ##Reduce <br>
 ##Include <br>
